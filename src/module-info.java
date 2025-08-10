@@ -4,5 +4,5 @@
 /**
  * 
  */
-module COLLECTION_IN_JAVA {
+module COLLECTION_IN_JAVA { 
 } 
