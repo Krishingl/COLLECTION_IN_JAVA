@@ -2,7 +2,7 @@ package com.krush.vector;
 
 public class MyVector<E>
 {
-   //Vector is dynamically Growable class in Collection.
+   //Vector is dynamically growable class in Collection.
 	
 	private Object[] elements; 
 	private int elementCount;//Size of array will calculated
