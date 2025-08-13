@@ -1,4 +1,4 @@
-package com.krush.sorting.blc;
+package com.krush.sorting.elc;
 /*
  Assignment 02:
 --------------
@@ -23,7 +23,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Spliterator;
 
-public class Customer {
+import com.krush.sorting.blc.Product;
+
+public class ProductTest {
 
 	public static void main(String[] args) {
 		
@@ -44,7 +46,8 @@ public class Customer {
 		      Spliterator<Product> spliterator = listOfProduct.spliterator();
 		      
 		      spliterator.forEachRemaining((p1)->System.out.println(p1));
-		      
+		      System.out.println();
+		      System.out.println();
 		System.out.println("After Sorting  List Of Products Based on the Product name (Acending Order): ");
             
 		      Collections.sort(listOfProduct);
