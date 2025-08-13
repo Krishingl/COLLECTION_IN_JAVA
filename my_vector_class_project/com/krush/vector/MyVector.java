@@ -9,7 +9,7 @@ public class MyVector<E>
 	private static final int DEFAULT_CAPACITY=10;
 	
 	//Default capacity is 10
-	public MyVector()
+	public MyVector() 
 	{
 		elements = new Object[DEFAULT_CAPACITY];
 	    elementCount =0;
