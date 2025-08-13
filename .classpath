@@ -8,7 +8,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="vector_class"/>
 	<classpathentry kind="src" path="my_vector_class_project"/>
-	<classpathentry kind="src" path="scenario_programs"/>
+	<classpathentry kind="src" path="vector_class.scenario_programs"/>
 	<classpathentry kind="src" path="stack_class"/>
 	<classpathentry kind="src" path="arraylist_class"/>
 	<classpathentry kind="output" path="bin"/>
