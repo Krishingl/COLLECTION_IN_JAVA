@@ -6,7 +6,7 @@ public class Product implements Comparable<Product>
 	    private String productName;
 	    private Double productPrice;
 	    
-	    
+	       
 	    
 	    
 
