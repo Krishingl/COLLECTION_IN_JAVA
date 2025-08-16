@@ -1,5 +1,7 @@
 package com.krush.linked_list;
 
+import java.util.LinkedList;
+
 public class CustomSinglyLinkList
 {
 
@@ -31,7 +33,7 @@ public class CustomSinglyLinkList
 	    System.out.println(n1.next.item);
 	    System.out.println(n1.next.next.item);
 	    
-
+// note: ==>      LinkedList l= new LinkedList();  //doubly linked list implementation of our LikedList Class 
 	}
 
 }
