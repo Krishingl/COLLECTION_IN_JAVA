@@ -12,5 +12,7 @@
 	<classpathentry kind="src" path="stack_class"/>
 	<classpathentry kind="src" path="arraylist_class"/>
 	<classpathentry kind="src" path="linkedlist_class"/>
+	<classpathentry kind="src" path="map_interface"/>
+	<classpathentry kind="src" path="hashmap_class"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
