@@ -14,5 +14,8 @@
 	<classpathentry kind="src" path="linkedlist_class"/>
 	<classpathentry kind="src" path="map_interface"/>
 	<classpathentry kind="src" path="hashmap_class"/>
+	<classpathentry kind="src" path="hashtable_class"/>
+	<classpathentry kind="src" path="weakhashmap_class"/>
+	<classpathentry kind="src" path="identity_hash_map_class"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
